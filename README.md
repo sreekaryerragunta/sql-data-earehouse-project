@@ -1,2 +1,2 @@
-# sql-data-earehouse-project
+# sql-data-warehouse-project
 Modern Daa Warehouse with SQL Server, including ETL processes, data modeling, and analytics.
